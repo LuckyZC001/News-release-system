@@ -17,8 +17,6 @@ public class DbUtil {
 		}
 	}
 	
-	//
-	
 	public static void main(String[] args) {
 		DbUtil dbUtil=new DbUtil();
 		try {
